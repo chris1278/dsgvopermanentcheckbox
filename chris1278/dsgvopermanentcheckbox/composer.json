@@ -25,10 +25,10 @@
             "phpbb/phpbb": ">=3.2.10,<3.4.0@dev"
         }
     },
-		"version-check": {
-			"host": "raw.githubusercontent.com",
-			"directory": "/chris1278/dsgvopermanentcheckbox/main",
-			"filename": "dsgvopermanentcheckbox.json",
-			"ssl": true
-		}		
+	"version-check": {
+		"host": "raw.githubusercontent.com",
+		"directory": "/chris1278/dsgvopermanentcheckbox/main",
+		"filename": "dsgvopermanentcheckbox.json",
+		"ssl": true
+	}
 }

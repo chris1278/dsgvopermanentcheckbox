@@ -1,0 +1,9 @@
+.dsgvo_cb_check input {
+  vertical-align: inherit;
+}
+
+.dsgvo_cb_span {
+	padding: 5px;
+	font-size: 12px;
+	font-weight: bold;
+}
